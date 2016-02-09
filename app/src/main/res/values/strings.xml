@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SoundWifiControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="HeandPhone">HandPhone reaction</string>
+    <string name="ActivateB">Activate BLUETUTH</string>
+    <string name="ActivateW">Activate WIFI</string>
+</resources>
